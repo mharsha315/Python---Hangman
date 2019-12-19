@@ -13,7 +13,7 @@ or any other editors supporting python libraries.
 2)If you are using python idle, then you can directly run the code using run in the menu bar or press f5.
 
 3)If you are using other editors (Atom, sublime-text, etc) then you need to use commandline to run the code.
-    3.1)open run command ```
+    3.1)open run command 
     3.2)enter into the path where the python file have been saved by using 'cd' command in windows.
     3.3)Then enter the command
     ``` python Hangman.py```
