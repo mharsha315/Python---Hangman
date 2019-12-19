@@ -15,7 +15,8 @@ or any other editors supporting python libraries.
 3)If you are using other editors (Atom, sublime-text, etc) then you need to use commandline to run the code.
     3.1)open run command 
     3.2)enter into the path where the python file have been saved by using 'cd' command in windows.
-    3.3)Then enter the command --'python Hangman.py'
+    3.3)Then enter the command
+    ``` python Hangman.py```
 
 4)Try the game and am open to any changes to the code and feel free to edit the code on your own.
 
