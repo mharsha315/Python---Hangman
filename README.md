@@ -17,6 +17,6 @@ or any other editors supporting python libraries.
     3.2)enter into the path where the python file have been saved by using 'cd' command in windows.
     3.3)Then enter the command --'python Hangman.py'
 
-4)Try the game and am open to any changes to the code and free feel to edit the code on your own.
+4)Try the game and am open to any changes to the code and feel free to edit the code on your own.
 
 Enjoy and have Fun.............
